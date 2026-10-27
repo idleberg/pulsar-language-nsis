@@ -156,7 +156,7 @@ word order.
 
 ### Formatting
 
-Scripts can be formatted using the experimental [`@nsis/dent`](https://www.npmjs.com/package/@nsis/dent) package. To do so, run *Format Document* or adjust your settings for auto-formatting.
+Scripts can be formatted using the [`ardent`](https://idleberg.github.io/ardent/) formatter. To do so, run *Format Document* or adjust your settings for auto-formatting.
 
 ### Building
 
